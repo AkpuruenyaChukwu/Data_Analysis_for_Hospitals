@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Data Analysis for Hospitals/*
+!/Data Analysis for Hospitals/task/
+/Data Analysis for Hospitals/task/*
+!/Data Analysis for Hospitals/task/analysis.py
